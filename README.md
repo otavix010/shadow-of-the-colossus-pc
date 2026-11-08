@@ -1,4 +1,18 @@
-# Shadow of the Colossus — port nativo para PC
+<h1 align="center">Shadow of the Colossus — port nativo para PC</h1>
+
+<p align="center"><i>Shadow of the Colossus (PS2, PAL SCES-53326): port nativo para PC por recompilação estática (PS2Recomp). Em desenvolvimento (o port ainda vai começar).</i></p>
+
+<p align="center">
+  <a href="https://github.com/otavix010/shadow-of-the-colossus-pc/commits/main"><img alt="Última atualização" src="https://img.shields.io/github/last-commit/otavix010/shadow-of-the-colossus-pc?label=%C3%BAltima%20atualiza%C3%A7%C3%A3o"></a>
+  <a href="https://github.com/otavix010/otavix-launcher/releases/latest"><img alt="Baixar o Otavix Launcher" src="https://img.shields.io/badge/Otavix%20Launcher-baixar-b00020"></a>
+</p>
+
+<p align="center">
+  <a href="#estado-atual-em-desenvolvimento">Estado atual: em desenvolvimento</a> ·
+  <a href="#o-que-você-vai-precisar">O que você vai precisar</a> ·
+  <a href="#licença-e-créditos">Licença e créditos</a> ·
+  <a href="#english-summary">English</a>
+</p>
 
 > **Projeto de fãs, sem fins lucrativos.** *Shadow of the Colossus* é marca registrada da Sony Interactive Entertainment; este projeto não tem relação com a Sony Interactive Entertainment. Este repositório **não contém o jogo**: você vai precisar da **sua própria cópia** do DVD (a versão europeia, **SCES-53326**).
 
