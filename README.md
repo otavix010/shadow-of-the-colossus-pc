@@ -45,10 +45,14 @@ Quando o port começar a rodar, este README ganha os requisitos, o desempenho me
 
 ## Licença e créditos
 
-- **O nosso código**: [MIT](LICENSE).
+- **O nosso código**: [MIT](LICENSE); os avisos do motor e de marcas estão em [AVISOS.md](AVISOS.md).
 - **O motor do port** (o motor PS2 próprio do projeto, que o gerador vai baixar pronto) não é coberto pela licença MIT; os avisos de terceiros dele ficam no `TERCEIROS.txt` do pacote.
 - *Shadow of the Colossus* é marca registrada da Sony Interactive Entertainment. Este é um projeto de fãs, sem fins lucrativos, sem relação com a Sony Interactive Entertainment nem endossado por ela.
+
+**Como é feito:** o Otavix é um projeto de fãs, sem fins lucrativos, desenvolvido com a ajuda de assistentes de IA (Claude, da Anthropic), que escrevem e testam boa parte do código sob a direção do autor. Cada versão passa por testes antes de ser publicada, e os reports dos jogadores entram no mesmo ciclo.
 
 ## English summary
 
 A **native PC port** of *Shadow of the Colossus* (PlayStation 2, 2005) by **static recompilation** with the project's own PS2 engine. **Work in progress: the port has not started yet** — we are first strengthening the shared PS2 base with the first four games. You will need your own copy of the **American** release (SCUS-97472, Redump "Shadow of the Colossus (USA)") as an .iso. *Shadow of the Colossus* is a trademark of Sony Interactive Entertainment; this is a non-commercial fan project, not affiliated with or endorsed by Sony Interactive Entertainment.
+
+**How it is made:** Otavix is a non-profit fan project developed with the help of AI assistants (Anthropic's Claude), which write and test much of the code under the author's direction. Every release is tested before it is published, and player reports feed the same loop.
